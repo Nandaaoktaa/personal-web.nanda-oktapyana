@@ -8,7 +8,7 @@ Di sebelah kanan halaman, terdapat "Daftar Artikel" yang menampilkan tiga artike
 2.PKKMB 2024: Yang Berkesan
 3.Makrab: 3 Hari 2 Malam
 Pengunjung bisa mengklik judul masing-masing artikel untuk membaca isi lengkapnya.
-<img width="960" alt="2025-07-01 (3)" src="https://github.com/user-attachments/assets/3986abaf-66ad-4f53-9c2c-2a838561ba58" />
+<img width="400" alt="2025-07-01 (3)" src="https://github.com/user-attachments/assets/3986abaf-66ad-4f53-9c2c-2a838561ba58" />
 
 Fungsi halaman : Melihat dan membaca artikel terbaru tentang kegiatan kampus.
 
