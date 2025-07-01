@@ -34,8 +34,8 @@ Gallery: 9
 
 Setiap kotak memiliki warna dan angka yang berbeda untuk memudahkan visualisasi dan pengenalan data secara cepat.
 
-**d.Menu Navigasi Samping (Sidebar Menu)
-**
+**d.Menu Navigasi Samping (Sidebar Menu)**
+
 Di sebelah kiri terdapat kotak menu dengan judul MENU. Ini adalah tempat bagi admin untuk berpindah ke berbagai fungsi lainnya.
 
 Isi menu tersebut:
