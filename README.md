@@ -1,16 +1,18 @@
-# personal-web.nanda-oktapyana
+![image](https://github.com/user-attachments/assets/647692e2-269f-451c-a61a-46c9679b1ae7)# personal-web.nanda-oktapyana
 Personal web Nanda Oktapyana menggunakan PHP, MYSQL, HTML, dan TailwindCSS.
 
-1. Halaman Administrator
+**1.Halaman Administrator**
 
 Halaman ini merupakan dashboard admin yang hanya dapat diakses setelah login berhasil. Halaman ini memiliki tampilan antarmuka yang rapi dan ramah pengguna (user-friendly) dengan nuansa biru profesional, menunjukkan bahwa ini adalah area pengelolaan data di balik layar website.
 Elemen-Elemen Utama Halaman Administrator:
 
 a.Header Judul
+
 Teks besar di bagian atas bertuliskan : Halaman Administrator
 Ini menunjukkan dengan jelas bahwa pengguna telah memasuki bagian administrasi situs dan memiliki akses ke fitur manajemen data seperti artikel dan galeri.
 
 b.Sambutan untuk Admin
+
 Di tengah halaman terdapat ucapan personal: Halo, admin! Apa kabar? 😊
 Pesan ini memberikan sentuhan personal agar halaman terasa lebih ramah dan menyenangkan, meskipun ini merupakan area kerja.
 
@@ -19,12 +21,15 @@ Silakan gunakan menu di samping untuk mengelola data.
 Ini menjadi petunjuk bahwa menu navigasi sebelah kiri adalah alat utama untuk melakukan tugas pengelolaan konten.
 
 c.Panel Statistik
+
 Terdapat dua kartu (box) statistik yang menyampaikan informasi secara ringkas:
 
 Artikel: 3
+
 (Menunjukkan bahwa saat ini ada 3 artikel yang telah dibuat/dikelola oleh admin)
 
 Gallery: 9
+
 (Menunjukkan bahwa terdapat 9 file foto atau item galeri yang telah diunggah ke sistem)
 
 Setiap kotak memiliki warna dan angka yang berbeda untuk memudahkan visualisasi dan pengenalan data secara cepat.
@@ -46,8 +51,9 @@ Isi menu tersebut:
 5.Logout (berwarna merah): Untuk keluar dari sesi admin dan kembali ke halaman login.
 
 e.Footer (Kaki Halaman)
-Di bagian bawah halaman terdapat informasi pembuat:
-© 2025 | Created by Nanda Oktapyana
+
+Di bagian bawah halaman terdapat informasi pembuat: © 2025 | Created by Nanda Oktapyana
+
 Ini menunjukkan hak cipta dan menegaskan bahwa seluruh sistem web ini adalah hasil karya pribadi dari pemilik, yakni Nanda Oktapyana.
 
 <img width="650" alt="2025-07-01 (7)" src="https://github.com/user-attachments/assets/b1ffc09c-76bc-405c-a169-cd1e3f631ee7" />
@@ -64,7 +70,106 @@ Halaman ini adalah pusat kendali dari website, di mana seorang administrator bis
 
 4.Mengelola sesi login/logout sebagai keamanan data.
 
-2. Halaman Artikel Terbaru (Home)
+**2.Halaman Kelola Artikel (Kelola Artikel)**
+
+Halaman ini memiliki judul besar di bagian atas bertuliskan:// HALAMAN ADMIN // dan subjudul: Daftar Artikel
+Di sinilah admin dapat melihat, menambah, mengedit, dan menghapus artikel yang akan ditampilkan di halaman publik situs.
+
+Tabel Daftar Artikel
+Tabel ini terdiri dari 4 kolom:
+
+1. No: Menampilkan urutan artikel.
+
+2. Nama Artikel: Judul artikel.
+
+3. Isi Artikel: Ringkasan atau keseluruhan isi artikel yang sudah dimasukkan.
+
+4. Aksi: Terdapat dua tautan kecil:
+
+Edit: Untuk mengubah artikel.
+
+Hapus: Untuk menghapus artikel secara permanen.
+
+Tombol Tambah Artikel
+Terletak di kanan atas tabel berwarna biru dengan label:
+
++ Tambah Artikel
+Tombol ini akan membawa admin ke formulir penambahan artikel baru ke dalam sistem.
+Contoh Artikel yang Ditampilkan
+Salah satu contoh artikel yang ada adalah:
+
+<img width="650" alt="2025-07-01 (8)" src="https://github.com/user-attachments/assets/8e479fba-090e-4183-919f-c9ea791dac2a" />
+
+Judul: HIMASI CUP: Great Energy, New Synergy
+
+**3.Halaman Kelola Gallery (Kelola Gallery)**
+
+Kelola Gallery
+Subjudul konten: Daftar Gallery
+
+Halaman ini digunakan untuk mengatur foto-foto atau dokumentasi kegiatan yang akan ditampilkan di halaman galeri publik.
+Tampilan Gambar
+Gambar-gambar yang diunggah ditampilkan dalam bentuk grid atau kartu galeri. Setiap gambar memiliki:
+
+a.Judul atau Kategori: Contoh "PKKMB"
+
+b.Edit: Untuk mengganti gambar atau judulnya.
+
+c.Hapus: Untuk menghapus gambar dari sistem.
+
+Tombol Tambah Gambar
+Terletak di kanan atas, berwarna biru dan bertuliskan:
+
++ Tambah Gambar
+Ketika diklik, admin dapat mengunggah gambar baru ke dalam galeri.
+Contoh Gambar :
+
+<img width="650" alt="2025-07-01 (9)" src="https://github.com/user-attachments/assets/db936afa-da96-4998-914f-dc8ffe86f3f2" />
+
+Semua gambar pada contoh bertema kegiatan PKKMB (Pengenalan Kehidupan Kampus Mahasiswa Baru), menunjukkan momen kebersamaan mahasiswa, 
+baik dalam kegiatan formal maupun santai.
+
+**4.Halaman Kelola About (About)**
+
+Judul besar di bagian atas:
+
+Kelola Halaman About
+
+Subjudul di bawahnya: Tentang Saya
+
+Halaman ini berfungsi untuk mengatur konten yang ditampilkan di halaman About Me pada bagian publik situs.
+
+Isi Tentang Saya
+Berisi paragraf deskriptif tentang Nanda Oktapyana. Isinya mencakup:
+
+a.Pengenalan diri sebagai mahasiswa Sistem Informasi.
+
+b.Minat dalam dunia teknologi, desain, dan organisasi.
+
+c.Keterlibatan dalam kepanitiaan kampus.
+
+d.Keyakinan bahwa pengalaman membentuk karakter, relasi, dan tujuan hidup.
+
+e.Motivasi pribadi untuk terus berkembang.
+
+Tombol Tambah Data
+Terletak di pojok kanan atas, berlabel:
+
+> + Tambah Data
+Fungsinya untuk menambahkan deskripsi About Me jika belum ada data yang ditampilkan.
+
+Edit dan Hapus
+
+Tersedia dua tombol:
+
+Edit: Untuk memperbarui isi deskripsi diri.
+
+Hapus: Untuk menghapus seluruh isi halaman “Tentang Saya”.
+
+<img width="650" alt="2025-07-01 (10)" src="https://github.com/user-attachments/assets/89ce470f-0f43-4767-9f87-06aa0a43c9a5" />
+
+
+**4. Halaman Artikel Terbaru (Home)**
    
 Halaman ini merupakan halaman utama dari website dan diberi judul "Personal Web | Nanda Oktapyana". Di halaman ini, pengunjung dapat membaca berbagai artikel terbaru yang telah dipublikasikan. Artikel-artikel tersebut berisi dokumentasi kegiatan kampus dan pengalaman pribadi yang berkesan
 Artikel utama yang ditampilkan pertama kali berjudul "HIMASI CUP: Great Energy, New Synergy", yang menjelaskan tentang kegiatan HIMASI CUP sebagai ajang tahunan yang penuh semangat, kekompakan, dan sportivitas. Kegiatan tersebut menjadi sarana membangun relasi antar mahasiswa melalui berbagai perlombaan olahraga seperti futsal dan badminton.
@@ -82,7 +187,7 @@ Pengunjung bisa mengklik judul masing-masing artikel untuk membaca isi lengkapny
 
 Fungsi halaman : Melihat dan membaca artikel terbaru tentang kegiatan kampus.
 
-3. Halaman Galeri Foto (Gallery)
+**5. Halaman Galeri Foto (Gallery)**
 
 Halaman ini menampilkan galeri foto-foto kegiatan kampus yang telah diikuti oleh Nanda Oktapyana. Berjudul "Gallery | Nanda Oktapyana", halaman ini didesain secara visual menarik dengan latar biru muda dan deretan foto-foto dalam bentuk kartu (card view) yang rapi dan proporsional.
 Tiap foto dilengkapi dengan label kegiatan, seperti:
@@ -99,7 +204,7 @@ Foto-foto tersebut menampilkan interaksi sosial antar mahasiswa, kebersamaan dal
 
 Fungsi halaman : Melihat koleksi foto-foto dokumentasi kegiatan kampus.
 
-4. Halaman About (Tentang Saya)
+**6. Halaman About (Tentang Saya)**
 
 Halaman ini merupakan bagian dari website personal yang berjudul "About Me | Nanda Oktapyana". Di halaman ini, pengunjung dapat membaca profil lengkap dari pemilik website.
 Isi dari halaman ini memuat pengenalan diri, latar belakang pendidikan sebagai mahasiswa Sistem Informasi, serta ketertarikan pribadi dalam bidang teknologi, desain grafis, dan kegiatan organisasi. Dijelaskan juga kepribadian Nanda yang terbuka terhadap tantangan, senang belajar hal baru, dan aktif berpartisipasi dalam kegiatan kampus, terutama dalam kepanitiaan.
@@ -109,7 +214,7 @@ Penulis juga menjelaskan nilai-nilai pribadi seperti pentingnya manajemen waktu,
 
 Fungsi halaman : Membaca profil pribadi dan latar belakang Nanda Oktapyana.
 
-5. Halaman Login Administrator
+**7. Halaman Login Administrator**
 Halaman login ini digunakan khusus oleh administrator untuk masuk ke sistem manajemen website. Judul halaman adalah "Login Administrator" dengan tampilan simpel namun elegan.
 Terdapat dua kolom input:
 
