@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/647692e2-269f-451c-a61a-46c9679b1ae7)# personal-web.nanda-oktapyana
+# personal-web.nanda-oktapyana
 Personal web Nanda Oktapyana menggunakan PHP, MYSQL, HTML, dan TailwindCSS.
 
 **1.Halaman Administrator**
