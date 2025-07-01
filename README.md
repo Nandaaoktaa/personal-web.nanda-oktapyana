@@ -1,5 +1,68 @@
 # personal-web.nanda-oktapyana
-Personal web Nanda Oktapyana menggunakan PHP, MYSQL, HTML, dan TailwindCSS
+Personal web Nanda Oktapyana menggunakan PHP, MYSQL, HTML, dan TailwindCSS.
+1.Halaman Administrator
+
+Halaman ini merupakan dashboard admin yang hanya dapat diakses setelah login berhasil. Halaman ini memiliki tampilan antarmuka yang rapi dan ramah pengguna (user-friendly) dengan nuansa biru profesional, menunjukkan bahwa ini adalah area pengelolaan data di balik layar website.
+Elemen-Elemen Utama Halaman Administrator:
+
+a.Header Judul
+Teks besar di bagian atas bertuliskan : Halaman Administrator
+Ini menunjukkan dengan jelas bahwa pengguna telah memasuki bagian administrasi situs dan memiliki akses ke fitur manajemen data seperti artikel dan galeri.
+
+b.Sambutan untuk Admin
+Di tengah halaman terdapat ucapan personal: Halo, admin! Apa kabar? 😊
+Pesan ini memberikan sentuhan personal agar halaman terasa lebih ramah dan menyenangkan, meskipun ini merupakan area kerja.
+
+Di bawahnya ada instruksi:
+Silakan gunakan menu di samping untuk mengelola data.
+Ini menjadi petunjuk bahwa menu navigasi sebelah kiri adalah alat utama untuk melakukan tugas pengelolaan konten.
+
+c.Panel Statistik
+Terdapat dua kartu (box) statistik yang menyampaikan informasi secara ringkas:
+
+Artikel: 3
+(Menunjukkan bahwa saat ini ada 3 artikel yang telah dibuat/dikelola oleh admin)
+
+Gallery: 9
+(Menunjukkan bahwa terdapat 9 file foto atau item galeri yang telah diunggah ke sistem)
+
+Setiap kotak memiliki warna dan angka yang berbeda untuk memudahkan visualisasi dan pengenalan data secara cepat.
+
+d.Menu Navigasi Samping (Sidebar Menu)
+
+Di sebelah kiri terdapat kotak menu dengan judul MENU. Ini adalah tempat bagi admin untuk berpindah ke berbagai fungsi lainnya.
+
+Isi menu tersebut:
+
+1.Beranda: Untuk kembali ke halaman utama dashboard admin.
+
+2.Kelola Artikel: Untuk masuk ke halaman yang digunakan menambah, mengedit, atau menghapus artikel yang akan tampil di halaman publik.
+
+3.Kelola Gallery: Untuk mengelola foto-foto pada halaman galeri seperti menambah gambar baru atau menghapus yang lama.
+
+4.About: Kemungkinan berfungsi untuk mengedit halaman "Tentang Saya".
+
+5.Logout (berwarna merah): Untuk keluar dari sesi admin dan kembali ke halaman login.
+
+e.Footer (Kaki Halaman)
+Di bagian bawah halaman terdapat informasi pembuat:
+© 2025 | Created by Nanda Oktapyana
+Ini menunjukkan hak cipta dan menegaskan bahwa seluruh sistem web ini adalah hasil karya pribadi dari pemilik, yakni Nanda Oktapyana.
+
+<img width="650" alt="2025-07-01 (7)" src="https://github.com/user-attachments/assets/b1ffc09c-76bc-405c-a169-cd1e3f631ee7" />
+
+Fungsi Halaman Ini Secara Keseluruhan:
+
+Halaman ini adalah pusat kendali dari website, di mana seorang administrator bisa:
+
+1.Melihat statistik konten yang sudah dipublikasikan.
+
+2.Mengakses menu untuk menambahkan atau memperbarui konten artikel dan galeri.
+
+3.Mengatur profil atau konten halaman About.
+
+4.Mengelola sesi login/logout sebagai keamanan data.
+
 1. Halaman Artikel Terbaru (Home)
    
 Halaman ini merupakan halaman utama dari website dan diberi judul "Personal Web | Nanda Oktapyana". Di halaman ini, pengunjung dapat membaca berbagai artikel terbaru yang telah dipublikasikan. Artikel-artikel tersebut berisi dokumentasi kegiatan kampus dan pengalaman pribadi yang berkesan
