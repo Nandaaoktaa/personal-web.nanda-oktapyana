@@ -1,7 +1,7 @@
 # personal-web.nanda-oktapyana
 Personal web Nanda Oktapyana menggunakan PHP, MYSQL, HTML, dan TailwindCSS.
 
-1.Halaman Administrator
+1. Halaman Administrator
 
 Halaman ini merupakan dashboard admin yang hanya dapat diakses setelah login berhasil. Halaman ini memiliki tampilan antarmuka yang rapi dan ramah pengguna (user-friendly) dengan nuansa biru profesional, menunjukkan bahwa ini adalah area pengelolaan data di balik layar website.
 Elemen-Elemen Utama Halaman Administrator:
@@ -64,7 +64,7 @@ Halaman ini adalah pusat kendali dari website, di mana seorang administrator bis
 
 4.Mengelola sesi login/logout sebagai keamanan data.
 
-1. Halaman Artikel Terbaru (Home)
+2. Halaman Artikel Terbaru (Home)
    
 Halaman ini merupakan halaman utama dari website dan diberi judul "Personal Web | Nanda Oktapyana". Di halaman ini, pengunjung dapat membaca berbagai artikel terbaru yang telah dipublikasikan. Artikel-artikel tersebut berisi dokumentasi kegiatan kampus dan pengalaman pribadi yang berkesan
 Artikel utama yang ditampilkan pertama kali berjudul "HIMASI CUP: Great Energy, New Synergy", yang menjelaskan tentang kegiatan HIMASI CUP sebagai ajang tahunan yang penuh semangat, kekompakan, dan sportivitas. Kegiatan tersebut menjadi sarana membangun relasi antar mahasiswa melalui berbagai perlombaan olahraga seperti futsal dan badminton.
@@ -82,7 +82,7 @@ Pengunjung bisa mengklik judul masing-masing artikel untuk membaca isi lengkapny
 
 Fungsi halaman : Melihat dan membaca artikel terbaru tentang kegiatan kampus.
 
-2.Halaman Galeri Foto (Gallery)
+3. Halaman Galeri Foto (Gallery)
 
 Halaman ini menampilkan galeri foto-foto kegiatan kampus yang telah diikuti oleh Nanda Oktapyana. Berjudul "Gallery | Nanda Oktapyana", halaman ini didesain secara visual menarik dengan latar biru muda dan deretan foto-foto dalam bentuk kartu (card view) yang rapi dan proporsional.
 Tiap foto dilengkapi dengan label kegiatan, seperti:
@@ -99,7 +99,7 @@ Foto-foto tersebut menampilkan interaksi sosial antar mahasiswa, kebersamaan dal
 
 Fungsi halaman : Melihat koleksi foto-foto dokumentasi kegiatan kampus.
 
-3.Halaman About (Tentang Saya)
+4. Halaman About (Tentang Saya)
 
 Halaman ini merupakan bagian dari website personal yang berjudul "About Me | Nanda Oktapyana". Di halaman ini, pengunjung dapat membaca profil lengkap dari pemilik website.
 Isi dari halaman ini memuat pengenalan diri, latar belakang pendidikan sebagai mahasiswa Sistem Informasi, serta ketertarikan pribadi dalam bidang teknologi, desain grafis, dan kegiatan organisasi. Dijelaskan juga kepribadian Nanda yang terbuka terhadap tantangan, senang belajar hal baru, dan aktif berpartisipasi dalam kegiatan kampus, terutama dalam kepanitiaan.
@@ -109,7 +109,7 @@ Penulis juga menjelaskan nilai-nilai pribadi seperti pentingnya manajemen waktu,
 
 Fungsi halaman : Membaca profil pribadi dan latar belakang Nanda Oktapyana.
 
-4.Halaman Login Administrator
+5. Halaman Login Administrator
 Halaman login ini digunakan khusus oleh administrator untuk masuk ke sistem manajemen website. Judul halaman adalah "Login Administrator" dengan tampilan simpel namun elegan.
 Terdapat dua kolom input:
 
