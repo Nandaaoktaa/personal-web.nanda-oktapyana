@@ -1,12 +1,17 @@
 # personal-web.nanda-oktapyana
 Personal web Nanda Oktapyana menggunakan PHP, MYSQL, HTML, dan TailwindCSS
 1. Halaman Artikel Terbaru (Home)
+   
 Halaman ini merupakan halaman utama dari website dan diberi judul "Personal Web | Nanda Oktapyana". Di halaman ini, pengunjung dapat membaca berbagai artikel terbaru yang telah dipublikasikan. Artikel-artikel tersebut berisi dokumentasi kegiatan kampus dan pengalaman pribadi yang berkesan
 Artikel utama yang ditampilkan pertama kali berjudul "HIMASI CUP: Great Energy, New Synergy", yang menjelaskan tentang kegiatan HIMASI CUP sebagai ajang tahunan yang penuh semangat, kekompakan, dan sportivitas. Kegiatan tersebut menjadi sarana membangun relasi antar mahasiswa melalui berbagai perlombaan olahraga seperti futsal dan badminton.
 Di sebelah kanan halaman, terdapat "Daftar Artikel" yang menampilkan tiga artikel, yaitu:
+
 1.HIMASI CUP: Great Energy, New Synergy
+
 2.PKKMB 2024: Yang Berkesan
+
 3.Makrab: 3 Hari 2 Malam
+
 Pengunjung bisa mengklik judul masing-masing artikel untuk membaca isi lengkapnya.
 <img width="650" alt="2025-07-01 (3)" src="https://github.com/user-attachments/assets/3986abaf-66ad-4f53-9c2c-2a838561ba58" />
 
