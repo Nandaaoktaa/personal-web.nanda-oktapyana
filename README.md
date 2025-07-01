@@ -213,6 +213,7 @@ Penulis juga menjelaskan nilai-nilai pribadi seperti pentingnya manajemen waktu,
 Fungsi halaman : Membaca profil pribadi dan latar belakang Nanda Oktapyana.
 
 **8. Halaman Login Administrator**
+
 Halaman login ini digunakan khusus oleh administrator untuk masuk ke sistem manajemen website. Judul halaman adalah "Login Administrator" dengan tampilan simpel namun elegan.
 Terdapat dua kolom input :
 
