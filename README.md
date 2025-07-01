@@ -6,12 +6,12 @@ Personal web Nanda Oktapyana menggunakan PHP, MYSQL, HTML, dan TailwindCSS.
 Halaman ini merupakan dashboard admin yang hanya dapat diakses setelah login berhasil. Halaman ini memiliki tampilan antarmuka yang rapi dan ramah pengguna (user-friendly) dengan nuansa biru profesional, menunjukkan bahwa ini adalah area pengelolaan data di balik layar website.
 Elemen-Elemen Utama Halaman Administrator:
 
-a.Header Judul
+**a.Header Judul**
 
 Teks besar di bagian atas bertuliskan : Halaman Administrator
 Ini menunjukkan dengan jelas bahwa pengguna telah memasuki bagian administrasi situs dan memiliki akses ke fitur manajemen data seperti artikel dan galeri.
 
-b.Sambutan untuk Admin
+**b.Sambutan untuk Admin**
 
 Di tengah halaman terdapat ucapan personal: Halo, admin! Apa kabar? 😊
 Pesan ini memberikan sentuhan personal agar halaman terasa lebih ramah dan menyenangkan, meskipun ini merupakan area kerja.
@@ -20,7 +20,7 @@ Di bawahnya ada instruksi:
 Silakan gunakan menu di samping untuk mengelola data.
 Ini menjadi petunjuk bahwa menu navigasi sebelah kiri adalah alat utama untuk melakukan tugas pengelolaan konten.
 
-c.Panel Statistik
+**c.Panel Statistik**
 
 Terdapat dua kartu (box) statistik yang menyampaikan informasi secara ringkas:
 
@@ -34,8 +34,8 @@ Gallery: 9
 
 Setiap kotak memiliki warna dan angka yang berbeda untuk memudahkan visualisasi dan pengenalan data secara cepat.
 
-d.Menu Navigasi Samping (Sidebar Menu)
-
+**d.Menu Navigasi Samping (Sidebar Menu)
+**
 Di sebelah kiri terdapat kotak menu dengan judul MENU. Ini adalah tempat bagi admin untuk berpindah ke berbagai fungsi lainnya.
 
 Isi menu tersebut:
@@ -50,7 +50,7 @@ Isi menu tersebut:
 
 5.Logout (berwarna merah): Untuk keluar dari sesi admin dan kembali ke halaman login.
 
-e.Footer (Kaki Halaman)
+**e.Footer (Kaki Halaman)**
 
 Di bagian bawah halaman terdapat informasi pembuat: © 2025 | Created by Nanda Oktapyana
 
@@ -62,13 +62,13 @@ Fungsi Halaman Ini Secara Keseluruhan:
 
 Halaman ini adalah pusat kendali dari website, di mana seorang administrator bisa:
 
-1.Melihat statistik konten yang sudah dipublikasikan.
+a.Melihat statistik konten yang sudah dipublikasikan.
 
-2.Mengakses menu untuk menambahkan atau memperbarui konten artikel dan galeri.
+b.Mengakses menu untuk menambahkan atau memperbarui konten artikel dan galeri.
 
-3.Mengatur profil atau konten halaman About.
+c.Mengatur profil atau konten halaman About.
 
-4.Mengelola sesi login/logout sebagai keamanan data.
+d.Mengelola sesi login/logout sebagai keamanan data.
 
 **2.Halaman Kelola Artikel (Kelola Artikel)**
 
@@ -78,17 +78,17 @@ Di sinilah admin dapat melihat, menambah, mengedit, dan menghapus artikel yang a
 Tabel Daftar Artikel
 Tabel ini terdiri dari 4 kolom:
 
-1. No: Menampilkan urutan artikel.
+a. No: Menampilkan urutan artikel.
 
-2. Nama Artikel: Judul artikel.
+b. Nama Artikel: Judul artikel.
 
-3. Isi Artikel: Ringkasan atau keseluruhan isi artikel yang sudah dimasukkan.
+c. Isi Artikel: Ringkasan atau keseluruhan isi artikel yang sudah dimasukkan.
 
-4. Aksi: Terdapat dua tautan kecil:
+d. Aksi: Terdapat dua tautan kecil:
 
-Edit: Untuk mengubah artikel.
+e.Edit: Untuk mengubah artikel.
 
-Hapus: Untuk menghapus artikel secara permanen.
+f.Hapus: Untuk menghapus artikel secara permanen.
 
 Tombol Tambah Artikel
 Terletak di kanan atas tabel berwarna biru dengan label:
@@ -133,11 +133,11 @@ baik dalam kegiatan formal maupun santai.
 
 Judul besar di bagian atas:
 
-Kelola Halaman About
+a.Kelola Halaman About
 
-Subjudul di bawahnya: Tentang Saya
+b.Subjudul di bawahnya: Tentang Saya
 
-Halaman ini berfungsi untuk mengatur konten yang ditampilkan di halaman About Me pada bagian publik situs.
+c.Halaman ini berfungsi untuk mengatur konten yang ditampilkan di halaman About Me pada bagian publik situs.
 
 Isi Tentang Saya
 Berisi paragraf deskriptif tentang Nanda Oktapyana. Isinya mencakup:
@@ -175,11 +175,11 @@ Halaman ini merupakan halaman utama dari website dan diberi judul "Personal Web 
 Artikel utama yang ditampilkan pertama kali berjudul "HIMASI CUP: Great Energy, New Synergy", yang menjelaskan tentang kegiatan HIMASI CUP sebagai ajang tahunan yang penuh semangat, kekompakan, dan sportivitas. Kegiatan tersebut menjadi sarana membangun relasi antar mahasiswa melalui berbagai perlombaan olahraga seperti futsal dan badminton.
 Di sebelah kanan halaman, terdapat "Daftar Artikel" yang menampilkan tiga artikel, yaitu:
 
-1.HIMASI CUP: Great Energy, New Synergy
+a..HIMASI CUP: Great Energy, New Synergy
 
-2.PKKMB 2024: Yang Berkesan
+b.PKKMB 2024: Yang Berkesan
 
-3.Makrab: 3 Hari 2 Malam
+c.Makrab: 3 Hari 2 Malam
 
 Pengunjung bisa mengklik judul masing-masing artikel untuk membaca isi lengkapnya.
 
@@ -192,11 +192,11 @@ Fungsi halaman : Melihat dan membaca artikel terbaru tentang kegiatan kampus.
 Halaman ini menampilkan galeri foto-foto kegiatan kampus yang telah diikuti oleh Nanda Oktapyana. Berjudul "Gallery | Nanda Oktapyana", halaman ini didesain secara visual menarik dengan latar biru muda dan deretan foto-foto dalam bentuk kartu (card view) yang rapi dan proporsional.
 Tiap foto dilengkapi dengan label kegiatan, seperti:
 
-1.PKKMB (Pengenalan Kehidupan Kampus Mahasiswa Baru)
+a.PKKMB (Pengenalan Kehidupan Kampus Mahasiswa Baru)
 
-2.Kegiatan lapangan dan dokumentasi acara kampus
+b.Kegiatan lapangan dan dokumentasi acara kampus
 
-3.Makrab (Malam Keakraban)
+c.Makrab (Malam Keakraban)
 
 Foto-foto tersebut menampilkan interaksi sosial antar mahasiswa, kebersamaan dalam kegiatan, serta semangat dan kekompakan selama menjalani acara. Dengan galeri ini, pengunjung dapat melihat secara visual momen-momen penting yang telah menjadi bagian dari perjalanan akademik dan organisasi Nanda.
 
